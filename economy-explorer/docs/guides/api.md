@@ -96,6 +96,7 @@ authoritative list of endpoints and exact request bodies. The core capabilities 
 - **Transfers** — move money to a player or to a firm.
 - **Transactions** — read an account's history.
 - **Balance** — read an account's current balance.
+- **Baltop** — the richest players, ranked (the same list as `/baltop` in-game).
 - **Webhooks** — get a signed POST when the account moves money, instead of polling (see
   the [Webhooks guide](/docs/guides/webhooks)).
 - **Token rotation** — refresh your token before it expires.
